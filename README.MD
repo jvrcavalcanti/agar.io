@@ -1,1 +1,1 @@
-![alt text](https://github.com/jvrcavalcanti/agar.io/img/Screenshot_1.png)
+![alt text](https://raw.githubusercontent.com/jvrcavalcanti/agar.io/master/img/Screenshot_1.png)
